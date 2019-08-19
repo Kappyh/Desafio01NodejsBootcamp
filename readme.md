@@ -6,6 +6,6 @@
 
 ### How to start the project?
 
-`npm start` or `nodemon index.js``
+`npm start` or `nodemon index.js`
 
 Thanks!!!
